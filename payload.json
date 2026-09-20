@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "timestamp": 1789918092371,
+    "announcements": [
+      {
+        "id": "welcome-first",
+        "title": "أهلاً بك في GamePad Master!",
+        "message": "هذه أول رسالة تُدفع عن بُعد — النظام يعمل بنجاح. شكرًا لاستخدامك التطبيق.",
+        "type": "success"
+      }
+    ]
+  },
+  "sig": "1fcbe95e09eab6d201295d0c4a98d80ae34896593f91f31d0b83c31e1c8b04c5"
+}
